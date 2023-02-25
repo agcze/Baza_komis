@@ -3,11 +3,21 @@ Projekt bazy danych komisu/warsztatu samochodowego. Został utworzony w MS SQL S
 
 Struktura projektu:
 
-1. Tabela Pracownik- zawiera informacje o pracownikach firmy.
+1. Tabela dbo.pracownik- zawiera informacje o pracownikach.
 
-2. Tabela Klient- zawiera informacje o klientach firmy.
+2. Tabela dbo.klient- zawiera informacje o klientach.
 
-3. Tabela Miejsce- zawiera informacje oddziałach firmy.
+3. Tabela dbo.miejsce- zawiera informacje oddziałach.
+
+4. Tabela dbo.samochod- zawiera informacje o posiadanych do wypożyczenia samochodach, oraz czy jakiś samochod nie został usunięty z wypożyczalni.
+
+5. Tabela dbo.maprawa- zawiera informacje o usterkach jakie zostały zgłoszone do naprawy w poszczególnych samochodach.
+
+6. Tabela dbo.wykonane_naprawy- zawiera informację o wykonanych naprawach oraz o pracownikach którzy wykonywali naprawę.
+
+7. Tabela dbo.wypozyczenie- zawiera informację o wypożyczeniach samochodów.
+
+
 
 
 

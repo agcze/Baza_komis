@@ -17,6 +17,10 @@ Struktura projektu:
 
 7. Tabela dbo.wypozyczenie- zawiera informację o wypożyczeniach samochodów.
 
+8. Widok dbo.klient_raport.View- widok zawierający informację ile razy klient wypożyczył samochod.
+
+9. Widok dbo.samochod_raport.View-  widok zawierający informację o ilości wpożyczeń danej marki samochodu.
+
 
 
 

@@ -29,6 +29,11 @@ Schemat bazy danych został zawarty w pliku Schemat_komis.png
 
 12. Funkcja dbo.roznica_pensji- funkcja wyświetlająca różnicę miedzy maksymalną,a minimalną pensją.
 
+13. Procedura dbo.dodaj_klienta- procedura dodająca klienta.
+
+14. Procedura dbo.wypisz_samochod.- procedura wypisująca wyszyskie samochody danej marki.
+
+15. Procedura dbo.zwieksz_pensje- procedura zwiększająca pensję pracownika o podanym id i o podaną kwotę.
 
 
 
